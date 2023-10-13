@@ -1,0 +1,15 @@
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\bin\Debug\net6.0\tamagotchi.exe
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\bin\Debug\net6.0\tamagotchi.deps.json
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\bin\Debug\net6.0\tamagotchi.runtimeconfig.json
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\bin\Debug\net6.0\tamagotchi.dll
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\bin\Debug\net6.0\tamagotchi.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.csproj.AssemblyReference.cache
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.AssemblyInfoInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.AssemblyInfo.cs
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.csproj.CoreCompileInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.dll
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\refint\tamagotchi.dll
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\tamagotchi.genruntimeconfig.cache
+c:\Users\baltazar.biverstal\Documents\programering2\tamagotchi\obj\Debug\net6.0\ref\tamagotchi.dll
