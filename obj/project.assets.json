@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\tamagotchi\\tamagotchi.csproj",
+      "projectUniqueName": "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\tamagotchi\\tamagotchi.csproj",
       "projectName": "tamagotchi",
-      "projectPath": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\tamagotchi\\tamagotchi.csproj",
+      "projectPath": "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\tamagotchi\\tamagotchi.csproj",
       "packagesPath": "C:\\Users\\baltazar.biverstal\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\tamagotchi\\obj\\",
+      "outputPath": "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\tamagotchi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baltazar.biverstal\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
